@@ -13,6 +13,7 @@
     <description>
         First App 
     </description>
+    <preference name="permissions" value="none"/>
 
     <author href="http://jordankittle.com/apps/gasprice" email="shwackd@gmail.com">
         Jordan Kittle
